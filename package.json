@@ -5,9 +5,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-		"build": "svelte-kit build",
 		"build:vercel": "svelte-kit build --adapter vercel",
-		"dev": "svelte-kit dev",
 		"preview": "vite preview"
 	},
 	"devDependencies": {
